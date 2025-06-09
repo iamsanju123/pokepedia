@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 https://github.com/iamsanju123/pokepedia/blob/2b5177e8df8826826f1d8188188ec0c495d56793/pokeball-i.jpg
 https://github.com/iamsanju123/pokepedia/blob/81b45ab910e76b3075dcc68843fd4e60524d0151/lotties.json
+https://github.com/iamsanju123/pokepedia/blob/9403c808cde8c5477d6ffa32af326b4ba3c5af51/lotties1.json
